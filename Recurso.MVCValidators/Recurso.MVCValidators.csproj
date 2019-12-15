@@ -10,6 +10,9 @@
     <RepositoryUrl>https://github.com/madiathomas/MVCValidators</RepositoryUrl>
     <PackageTags>DateGreaterThan, NoFutureDate, RequiredIf</PackageTags>
     <Copyright>https://licenses.nuget.org/MIT</Copyright>
+    <Product>MVCValidators</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
