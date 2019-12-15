@@ -6,6 +6,10 @@
     <Company>Recurso IT</Company>
     <Description>DateGreaterThan, NoFuture data and RequiredIf Validators.</Description>
     <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/madiathomas/MVCValidators</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/madiathomas/MVCValidators</RepositoryUrl>
+    <PackageTags>DateGreaterThan, NoFutureDate, RequiredIf</PackageTags>
+    <Copyright>https://licenses.nuget.org/MIT</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
