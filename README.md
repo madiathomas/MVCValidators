@@ -1,5 +1,5 @@
 # Additional ASP.NET MVC Validators
-DateGreaterThan, NoFutureDate and RequiredIf Validators.
+**DateGreaterThan**, **NoFutureDate** and **RequiredIf** Validators.
 
 ASP.NET MVC doesn't have validators to check if date 1 is greater than date 2. 
 
