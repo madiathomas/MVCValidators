@@ -1,4 +1,4 @@
-# MVCValidators
+# Additional ASP.NET MVC Validators
 DateGreaterThan, NoFutureDate and RequiredIf Validators.
 
 ASP.NET MVC doesn't have validators to check if date 1 is greater than date 2. 
@@ -10,3 +10,5 @@ Also doesn't have validator to check if something is required if under certain c
 This library brings those functionalities.
 
 Library is also downloadable as a Nuget package.
+
+To install it, simply run this nuget command on **Install-Package Recurso.BulkSMS**.
