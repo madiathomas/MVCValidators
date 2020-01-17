@@ -13,6 +13,8 @@
     <Product>MVCValidators</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>- Updated icon</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
