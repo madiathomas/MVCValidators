@@ -10,7 +10,7 @@ Also doesn't have validator to check if something is required if under certain c
 
 This library brings those functionalities.
 
-## Installation Instructions
+## Nuget Installation Instructions
 
 Library is also downloadable as a Nuget package.
 
