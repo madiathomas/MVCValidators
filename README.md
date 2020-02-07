@@ -14,4 +14,4 @@ This library brings those functionalities.
 
 Library is also downloadable as a Nuget package.
 
-To install it, simply run this nuget command on **Install-Package Recurso.BulkSMS**.
+To install it, simply run this command **Install-Package Recurso.BulkSMS** using Packager Manage Console.
