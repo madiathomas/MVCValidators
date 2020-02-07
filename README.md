@@ -14,4 +14,4 @@ This library brings those functionalities.
 
 Library is also downloadable as a Nuget package.
 
-To install it, simply run this command **Install-Package Recurso.MVCValidators** using Packager Manage Console.
+To install it, simply run this command **Install-Package Recurso.MVCValidators** using Package Manager Console.
